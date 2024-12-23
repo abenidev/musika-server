@@ -1,7 +1,7 @@
 services:
   # A Docker web service
   - type: web
-    name: musika_server
+    name: musika-server
     runtime: python
     plan: free
     autoDeploy: false
